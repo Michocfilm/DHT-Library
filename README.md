@@ -1,18 +1,18 @@
-DHT
+🔥DHT
 ===
 
 An Arduino library for reading the DHT family of temperature and humidity sensors.
 
 Written by Mark Ruys, <mark@paracas.nl>.
 
-Features
+✨Features
 --------
   - Support for DHT11 and DHT22, AM2302, RHT03
   - Auto detect sensor model
   - Low memory footprint
   - Very small code
 
-Usage
+⚙️Usage
 -----
 
 ```
