@@ -38,7 +38,7 @@ void loop()
 ```
 Also check out the [example] how to read out your sensor. For all the options, see [dht.h][header].
 
-Installation
+🚀Installation
 ------------
 
 Place the [DHT][download] library folder in your `<arduinosketchfolder>/libraries/` folder. You may need to create the `libraries` subfolder if its your first library. Restart the Arduino IDE. 
